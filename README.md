@@ -32,6 +32,16 @@ Este proyecto es una interfaz gráfica creada con **Tkinter** que permite regist
 
 ### 1. Clona este repositorio o descarga el archivo:
 
-```bash
+bash
 git clone https://github.com/bertocs/Plantilla-de-Registro-de-Duelos.git
+
+📊 Estructura del CSV
+Los datos se almacenan con el siguiente formato:
+Jugador, Aéreo o Suelo, Zona, Evento, Consecuencia, Jornada
+
+## 📸 Captura de pantalla
+
+Aquí tienes una imagen de la interfaz para que te hagas una idea de su apariencia:
+
+![Interfaz del Registro de Duelos](images/Captura_Plantilla_duelos.jpg)
 
