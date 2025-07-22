@@ -43,5 +43,6 @@ Jugador, Aéreo o Suelo, Zona, Evento, Consecuencia, Jornada
 
 Aquí tienes una imagen de la interfaz para que te hagas una idea de su apariencia:
 
-![Interfaz del Registro de Duelos](images/Captura_Plantilla_duelos.jpg)
+![Interfaz del Registro de Duelos](![Captura Plantilla duelos](https://github.com/user-attachments/assets/5d99c6ab-0580-413f-9479-29ce7c1e54b2)
+)
 
