@@ -1,6 +1,6 @@
 # 📝 Registro de Duelos en Fútbol
 
-Este proyecto es una interfaz gráfica creada con **Tkinter** que permite registrar, visualizar y almacenar información sobre **duelos futbolísticos** (1vs1 ofensivos y defensivos, balones divididos, etc.) en un archivo CSV. El objetivo es facilitar el análisis táctico de los jugadores por zonas, tipo de duelo y consecuencia.
+Este proyecto es una interfaz gráfica creada con **Tkinter** que permite registrar, visualizar y almacenar información sobre **duelos en fútbol** (1vs1 ofensivos y defensivos, balones divididos, etc.) en un archivo CSV. El objetivo es facilitar el análisis táctico de los jugadores por zonas, tipo de duelo y consecuencia.
 
 ---
 
@@ -34,3 +34,4 @@ Este proyecto es una interfaz gráfica creada con **Tkinter** que permite regist
 
 ```bash
 git clone https://github.com/bertocs/Plantilla-de-Registro-de-Duelos.git
+
