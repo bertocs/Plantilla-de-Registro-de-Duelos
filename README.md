@@ -39,10 +39,5 @@ git clone https://github.com/bertocs/Plantilla-de-Registro-de-Duelos.git
 Los datos se almacenan con el siguiente formato:
 Jugador, Aéreo o Suelo, Zona, Evento, Consecuencia, Jornada
 
-## 📸 Captura de pantalla
-
-Aquí tienes una imagen de la interfaz para que te hagas una idea de su apariencia:
-
-![Interfaz del Registro de Duelos](images/Captura_Plantilla_duelos.jpg)
 
 
