@@ -6,7 +6,7 @@ Este proyecto es una interfaz gráfica creada con **Tkinter** que permite regist
 
 ## 🚀 Características
 
-- Interfaz gráfica sencilla e intuitiva.
+- Interfaz gráfica sencilla e intuitiva(En el código hay comentarios sobre la personalización)
 - Registro de datos mediante menús desplegables:
   - Jugador
   - Tipo de duelo (Aéreo o Suelo)
